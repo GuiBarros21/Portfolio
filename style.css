@@ -47,6 +47,11 @@ section{
     align-items: center;
     justify-content: space-between;
 }
+.logo-picture
+{
+    width: 100px;
+    height: 100px;
+}
 section .title{
     position: relative;
     text-align: center;
